@@ -454,6 +454,10 @@ omniorb:
   osx:
     homebrew:
       packages: [omniorb]
+ompl:
+  osx:
+    homebrew:
+      packages: [ompl]
 opencv2:
   osx:
     homebrew:
