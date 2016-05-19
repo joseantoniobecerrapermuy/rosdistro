@@ -79,6 +79,10 @@ epydoc:
   osx:
     pip:
       packages: [epydoc]
+fcl:
+  osx:
+    homebrew:
+      packages: [fcl]
 ffmpeg:
   osx:
     homebrew:
